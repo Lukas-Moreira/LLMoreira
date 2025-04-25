@@ -9,7 +9,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Lukas-Moreira&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Lukas-Moreira&theme=dark&hide_border=true" width = 400>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLMoreira&layout=compact&hide_border=true&title_color=A8346C&text_color=BCB28D&bg_color=1F2023" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Moreira&layout=compact&hide_border=true&title_color=A8346C&text_color=BCB28D&bg_color=1F2023" />
 </p>
 
 <div align="center">
